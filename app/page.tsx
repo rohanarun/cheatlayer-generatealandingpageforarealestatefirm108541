@@ -15,6 +15,7 @@ export default async function PricingPage() {
   ]);
 
   return (
+    test
     <Pricing
       user={user}
       products={products ?? []}
